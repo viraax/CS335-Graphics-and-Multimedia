@@ -33,7 +33,7 @@ public class drawPanel extends JPanel{
 
 	private int topRightX = 250;
 	private int topRightY = 150;
-
+ 
 
 
 	//constructor to draw the original polygon
