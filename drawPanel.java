@@ -143,7 +143,7 @@ public class drawPanel extends JPanel{
         // draw a single line segment using Midpoint alg
 	public void draw_line_by_bres (Graphics2D g) {
 
-		float m;
+		float m; 
 
 		int dy=Math.abs(y_cord2-y_cord1);
 		int dx=Math.abs(x_cord2-x_cord1);
