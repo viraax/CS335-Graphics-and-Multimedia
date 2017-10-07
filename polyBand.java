@@ -6,7 +6,7 @@ import java.awt.Polygon;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-
+ 
 public class polyBand extends JFrame {
 
   // simple hard-coded rectangle as starting point to draw
