@@ -1,0 +1,4 @@
+
+1. Publish amount of surrounding bombs in non-bomb square
+2. Pop "You Won!" message
+3. When generating random mines, check if previous coordinates have already been selected 
